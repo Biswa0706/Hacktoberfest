@@ -1,2 +1,2 @@
 # Hacktoberfest
-we accept only html,css &amp; js
+we accept only html,css,js &amp; python
