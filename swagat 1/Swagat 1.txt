@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>tables</title>
+        <h1>Dive deep into tables</h1>
+    </head>
+    <body>
+        <h2>Tables</h2>
+
+        <table border="2">
+            <tr>
+                <td>Swagat</td>
+                <td>18</td>
+                <td>male</td>
+            </tr>
+            <tr>
+                <td>andrew</td>
+                <td>34</td>
+                <td>male</td>
+            </tr>
+
+            
+            <tc>
+                <td>Sovit</td>
+                <td>21</td>
+                <td>male</td>
+            </tc>
+        </table>
+
+        <H1>HEADER</H1>
+        <p>paragraph</p>
+        <a href="http://www.google.com">Google</a>
+        <b>hello</b>
+            
+    </body>
+   
+
+</html>
