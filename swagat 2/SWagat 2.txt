@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>HTML formatting</title>
+        <h1>HTML formatting</h1>
+    </head>
+     
+    This Just A text.
+
+    <P>This is a paragraph </P>
+    
+    <B>this is a bold text</B>
+    <br>
+    <strong>This is a strong text</strong>
+    <br>
+    <i>This IS for Italic text</i>
+    <br>
+    <em> <b> This Is to GIve EMphasis </b></em>
+    <br>
+    <p>this is an exampl of a <small>small</small> text formatting</p>
+    <h1>This is an example of <mark>marked</mark><i>text Formatting</i></h1>
+    <ins>Hello World</ins>
+    <delete>Hello World</delete>
+    <ul>Hello World</ul>
+
+    <p> This IS a quote :- <q>karma Comes Back</q></p>
+    <P>This Is a citation <cite>Hello People</cite> By The Alexander</P>
+    <blockquote cite="http://www.udemy.com">Quotation In Block letters I guess </blockquote>
+    <address>
+        Swagat Acharya <br>
+        Rangh Ghar Pada <Br>
+        College Road Bargarh
+        ,Odisha<br> India    
+    </address>
+    <br>
+    <p>The Abbreviation OF something <abbr title="Swagat Kumar Acharya">SKA </abbr>U Wanna Add</p>
+
+        
+        
+</html>
