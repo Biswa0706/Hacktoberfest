@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ID`s and class</title>
+        <style> #main-navigation {color:brown;} 
+         h1 {color:aqua;}
+        .headerone {color:blueviolet;
+        text-decoration: overline}
+        .headergreen {color:green;
+        text-decoration:transparent}
+        </style>
+        <h1>ID`s and classes</h1>
+    </head>
+    <body>
+        <div id="main-navigation"><ul>
+            <Li>home</Li>
+            <li>about</li>
+            <li>Contact</li>
+        </ul></div>
+        <h1 class="headerone">header 1</h1>
+        <h1 class="headerone">header 1</h1>
+        <h1 class="headerone">header 1</h1>
+        <h1 class="headerone">header 1</h1>
+
+        <h1 class="headergreen">header green</h1>
+        <h1 class="headergreen">header green</h1>
+        
+
+        
+    </body>
+   
+
+</html>
